@@ -2,7 +2,7 @@
   "name": "damn",
   "version": "1.0.0",
   "description": "",
-  "homepage":"https://parixit-tech.com/damn",
+  "homepage":"https://parixit-tech.githu.io/damn",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
